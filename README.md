@@ -1,181 +1,156 @@
-
-<p align="center">
-⚠️ <b>This project has been abandoned. There will be no further releases </b>⚠️
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji> <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目已 </font></font></b><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/header.png" width="800">    
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/header.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/header.png" width="800" style="max-width: 100%;"></a>    
 </p>
-<p align="center">
-  <b>Linux System Optimizer and Monitoring</b>   <br>
-  <a href="https://www.patreon.com/oguzhaninan">
-	<img alt="Patreon" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" />
+<p align="center" dir="auto">
+  <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 系统优化器和监控</font></font></b>   <br>
+  <a href="https://www.patreon.com/oguzhaninan" rel="nofollow">
+	<img alt="帕特隆" src="https://camo.githubusercontent.com/f10aba10564cf2b33d2a0f0ffd8950de69999df26003f7bc056027815e03384b/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67" height="50" data-canonical-src="https://c5.patreon.com/external/logo/become_a_patron_button.png" style="max-width: 100%;">
 </a>
 </p>
-
-<p align="center">
+<p align="center" dir="auto">
 	<a href="https://sourceforge.net/projects/stacer/files/" rel="nofollow">
-		<img alt="Download Stacer" src="https://img.shields.io/sourceforge/dt/stacer.svg"/>
+		<img alt="下载斯塔瑟" src="https://camo.githubusercontent.com/b913fda3a2075bd4d5541d3282825b2a205699ed22dc62e353a6815b4b50e048/68747470733a2f2f696d672e736869656c64732e696f2f736f75726365666f7267652f64742f7374616365722e737667" data-canonical-src="https://img.shields.io/sourceforge/dt/stacer.svg" style="max-width: 100%;">
 	</a>
-	<a href="http://www.kernel.org">
-		<img alt="Platform (GNU/Linux)" src="https://img.shields.io/badge/platform-GNU/Linux-blue.svg"/>
+	<a href="http://www.kernel.org" rel="nofollow">
+		<img alt="平台（GNU/Linux）" src="https://camo.githubusercontent.com/0c6bba2a3494c4f95e6b1bb7aadfbe4171aa4cc4bb0f6eadad612e03d1052655/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6174666f726d2d474e552f4c696e75782d626c75652e737667" data-canonical-src="https://img.shields.io/badge/platform-GNU/Linux-blue.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://github.com/oguzhaninan/Stacer/releases">
-		<img alt="Github All Releases" src="https://img.shields.io/github/downloads/oguzhaninan/stacer/total.svg"/>
+		<img alt="Github 所有版本" src="https://camo.githubusercontent.com/c3f15a7afb7585a8c746ac1914053af0826a284bf87a324e751f96f2d5db1f5f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6f67757a68616e696e616e2f7374616365722f746f74616c2e737667" data-canonical-src="https://img.shields.io/github/downloads/oguzhaninan/stacer/total.svg" style="max-width: 100%;">
 	</a>
 </p>
-<p align="center">
-	<a href="https://sourceforge.net/projects/stacer/files/" >
-		<img src="https://a.fsdn.com/con/app/sf-download-button" />
+<p align="center" dir="auto">
+	<a href="https://sourceforge.net/projects/stacer/files/" rel="nofollow">
+		<img src="https://camo.githubusercontent.com/8ee504f2bf2167ae5eb7040fe0c7ac62953ffe5592a73787e20020c1b4fd30a3/68747470733a2f2f612e6673646e2e636f6d2f636f6e2f6170702f73662d646f776e6c6f61642d627574746f6e" data-canonical-src="https://a.fsdn.com/con/app/sf-download-button" style="max-width: 100%;">
 	</a>
 </p>	
-
-## Reviews
-<p align="left">
-    <a href="http://www.omgubuntu.co.uk/2017/01/stacer-system-optimizer-for-ubuntu">
-		<img width="65px" src="https://oguzhaninan.github.io/Stacer-Web/images/sites/site0.png"/>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">评论</font></font></h2><a id="user-content-reviews" class="anchor" aria-label="永久链接：评论" href="#reviews"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="left" dir="auto">
+    <a href="http://www.omgubuntu.co.uk/2017/01/stacer-system-optimizer-for-ubuntu" rel="nofollow">
+		<img width="65px" src="https://camo.githubusercontent.com/25f152e6a1a67b08ea9e4f6bcb82a114df34a13aced345203f161d5459b14e81/68747470733a2f2f6f67757a68616e696e616e2e6769746875622e696f2f5374616365722d5765622f696d616765732f73697465732f73697465302e706e67" data-canonical-src="https://oguzhaninan.github.io/Stacer-Web/images/sites/site0.png" style="max-width: 100%;">
 	</a>      
-    <a href="http://blog.desdelinux.net/optimizar-debian-ubuntu-linux-mint-derivados-stacer/">
-		<img width="155px" src="http://i.imgur.com/eV1WxYZ.png"/>
+    <a href="http://blog.desdelinux.net/optimizar-debian-ubuntu-linux-mint-derivados-stacer/" rel="nofollow">
+		<img width="155px" src="https://camo.githubusercontent.com/bcf981945c26404ec43ecd05c8439267b7114b9baa3ea03f8bbec59e86a2cd73/687474703a2f2f692e696d6775722e636f6d2f6556315778595a2e706e67" data-canonical-src="http://i.imgur.com/eV1WxYZ.png" style="max-width: 100%;">
 	</a>
-	<a href="http://www.techrepublic.com/article/how-to-install-stacer-for-quick-linux-system-optimization/">
-		<img width="150px" src="https://static1.squarespace.com/static/55afdc11e4b000b229a97849/t/55b13f1de4b044f556a02524/1437679408913/"/>
+	<a href="http://www.techrepublic.com/article/how-to-install-stacer-for-quick-linux-system-optimization/" rel="nofollow">
+		<img width="150px" src="https://camo.githubusercontent.com/90340dfbbe89c696403957abf89997c39f0d3bd031ea3b893e84c79130a1f6c4/68747470733a2f2f737461746963312e73717561726573706163652e636f6d2f7374617469632f3535616664633131653462303030623232396139373834392f742f3535623133663164653462303434663535366130323532342f313433373637393430383931332f" data-canonical-src="https://static1.squarespace.com/static/55afdc11e4b000b229a97849/t/55b13f1de4b044f556a02524/1437679408913/" style="max-width: 100%;">
 	</a>
-	</a>
+	
 </p>
-
-### Required Packages
-- curl, systemd
-
-### PPA Repository (for ubuntu)
-1. `sudo add-apt-repository ppa:oguzhaninan/stacer -y`   
-2. `sudo apt-get update`   
-3. `sudo apt-get install stacer -y`
-
-
-### Arch Linux (AUR)
-1. Install the stacer package with a AUR helper of your choice eg.
-2. `yay -Syyu stacer`
-3. `paru -S stacer`
-4. `pacaur -a stacer`
-
-### Debian x64
-
-1. Download `stacer_1.1.0_amd64.deb` from the [Stacer releases page](https://github.com/oguzhaninan/Stacer/releases).
-2. Run `sudo dpkg -i stacer*.deb` on the downloaded package.
-3. Launch Stacer using the installed `stacer` command.
-
-### Debian sid / Ubuntu 20.04+
-
-1. Run as root `apt install stacer`
-
-### Fedora
-1. Download `stacer_1.1.0_amd64.rpm` from the [Stacer releases page](https://github.com/oguzhaninan/Stacer/releases).
-2. Run `sudo rpm --install stacer*.rpm --nodeps --force` on the downloaded package.
-3. Launch Stacer using the installed `stacer` command.
-
-### Fedora (with DNF)
-1. Run: `sudo dnf install stacer`
-2. Launch Stacer using the installed `stacer` command.
-
-## Build from source with CMake (Qt Version Qt 5.x)
-1. `mkdir build && cd build`
-2. `cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/qt/path/bin ..`
-3. `make -j $(nproc)`
-4. `output/bin/stacer`
-
-## Screenshots
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-1.png" width="700">
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所需包</font></font></h3><a id="user-content-required-packages" class="anchor" aria-label="永久链接：所需的软件包" href="#required-packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卷曲，系统</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PPA 存储库（适用于 ubuntu）</font></font></h3><a id="user-content-ppa-repository-for-ubuntu" class="anchor" aria-label="永久链接：PPA 存储库（适用于 ubuntu）" href="#ppa-repository-for-ubuntu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><code>sudo add-apt-repository ppa:oguzhaninan/stacer -y</code></li>
+<li><code>sudo apt-get update</code></li>
+<li><code>sudo apt-get install stacer -y</code></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Arch Linux (AUR)</font></font></h3><a id="user-content-arch-linux-aur" class="anchor" aria-label="永久链接：Arch Linux (AUR)" href="#arch-linux-aur"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用您选择的 AUR 助手安装 Stacer 软件包，例如。</font></font></li>
+<li><code>yay -Syyu stacer</code></li>
+<li><code>paru -S stacer</code></li>
+<li><code>pacaur -a stacer</code></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Debian x64</font></font></h3><a id="user-content-debian-x64" class="anchor" aria-label="永久链接：Debian x64" href="#debian-x64"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>stacer_1.1.0_amd64.deb</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从</font></font><a href="https://github.com/oguzhaninan/Stacer/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stacer 发布页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>sudo dpkg -i stacer*.deb</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载的包。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用已安装的</font></font><code>stacer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令启动 Stacer。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Debian sid / Ubuntu 20.04+</font></font></h3><a id="user-content-debian-sid--ubuntu-2004" class="anchor" aria-label="永久链接：Debian sid / Ubuntu 20.04+" href="#debian-sid--ubuntu-2004"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以 root 身份运行</font></font><code>apt install stacer</code></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软呢帽</font></font></h3><a id="user-content-fedora" class="anchor" aria-label="永久链接：费多拉" href="#fedora"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>stacer_1.1.0_amd64.rpm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从</font></font><a href="https://github.com/oguzhaninan/Stacer/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stacer 发布页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>sudo rpm --install stacer*.rpm --nodeps --force</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载的包。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用已安装的</font></font><code>stacer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令启动 Stacer。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fedora（带 DNF）</font></font></h3><a id="user-content-fedora-with-dnf" class="anchor" aria-label="永久链接：Fedora（带 DNF）" href="#fedora-with-dnf"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步：</font></font><code>sudo dnf install stacer</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用已安装的</font></font><code>stacer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令启动 Stacer。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 CMake 从源代码构建（Qt 版本 Qt 5.x）</font></font></h2><a id="user-content-build-from-source-with-cmake-qt-version-qt-5x" class="anchor" aria-label="永久链接：使用 CMake 从源代码构建（Qt 版本 Qt 5.x）" href="#build-from-source-with-cmake-qt-version-qt-5x"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><code>mkdir build &amp;&amp; cd build</code></li>
+<li><code>cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/qt/path/bin ..</code></li>
+<li><code>make -j $(nproc)</code></li>
+<li><code>output/bin/stacer</code></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h2><a id="user-content-screenshots" class="anchor" aria-label="永久链接：屏幕截图" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-1.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-1.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-2.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-2.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-2.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-3.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-3.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-3.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-4.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-4.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-4.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-5.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-5.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-5.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-6.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-6.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-6.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-7.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-7.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-7.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-8.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-8.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-8.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-9.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-9.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-9.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-10.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-10.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-10.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-11.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-11.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-11.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-12.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-12.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-12.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-13.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-13.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-13.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-14.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-14.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-14.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-15.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-15.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-15.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-16.png" width="700">
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-16.png"><img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-16.png" width="700" style="max-width: 100%;"></a>
 </p>
-
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/oguzhaninan/Stacer/graphs/contributors"><img src="https://opencollective.com/Stacer/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/Stacer/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/Stacer"><img src="https://opencollective.com/Stacer/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/Stacer/contribute)]
-
-<a href="https://opencollective.com/Stacer/organization/0/website"><img src="https://opencollective.com/Stacer/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/1/website"><img src="https://opencollective.com/Stacer/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/2/website"><img src="https://opencollective.com/Stacer/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/3/website"><img src="https://opencollective.com/Stacer/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/4/website"><img src="https://opencollective.com/Stacer/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/5/website"><img src="https://opencollective.com/Stacer/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/6/website"><img src="https://opencollective.com/Stacer/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/7/website"><img src="https://opencollective.com/Stacer/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/8/website"><img src="https://opencollective.com/Stacer/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/Stacer/organization/9/website"><img src="https://opencollective.com/Stacer/organization/9/avatar.svg"></a>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h2><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码贡献者</font></font></h3><a id="user-content-code-contributors" class="anchor" aria-label="永久链接：代码贡献者" href="#code-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目的存在要感谢所有做出贡献的人。 [</font></font><a href="/oguzhaninan/Stacer/blob/native/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">]。
+</font></font><a href="https://github.com/oguzhaninan/Stacer/graphs/contributors"><img src="https://camo.githubusercontent.com/58bcca13fd25320258fb9b3566b2e5240b9d66b47b7ea6954b77ff05d3504fd1/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/Stacer/contributors.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">财务贡献者</font></font></h3><a id="user-content-financial-contributors" class="anchor" aria-label="永久链接：财务贡献者" href="#financial-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为财务贡献者并帮助我们维持我们的社区。 [</font></font><a href="https://opencollective.com/Stacer/contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">]</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">个人</font></font></h4><a id="user-content-individuals" class="anchor" aria-label="永久链接：个人" href="#individuals"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://opencollective.com/Stacer" rel="nofollow"><img src="https://camo.githubusercontent.com/6fad167f4944696caf4f28060a5799ad3747e82b6d744194cb5905a238197aa4/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f696e646976696475616c732e7376673f77696474683d383930" data-canonical-src="https://opencollective.com/Stacer/individuals.svg?width=890" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组织机构</font></font></h4><a id="user-content-organizations" class="anchor" aria-label="永久链接：组织" href="#organizations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与您的组织一起支持该项目。您的徽标将显示在此处，并带有指向您网站的链接。 [</font></font><a href="https://opencollective.com/Stacer/contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">]</font></font></p>
+<p dir="auto"><a href="https://opencollective.com/Stacer/organization/0/website" rel="nofollow"><img src="https://camo.githubusercontent.com/319e6ba7610d9a2a1a655188463137d6628fe769498b2b48098d54f2d3b5ba2f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f302f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/0/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/1/website" rel="nofollow"><img src="https://camo.githubusercontent.com/0caec742a13864f209c6715fcf9972d4e51f963043f4bbb90578d948aba1eaf8/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f312f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/1/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/2/website" rel="nofollow"><img src="https://camo.githubusercontent.com/a102c7b379061305ad0bea11189a6cd8e8a1d980e607e5b5da35e3eb6a89f7e8/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f322f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/2/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/3/website" rel="nofollow"><img src="https://camo.githubusercontent.com/ddb4fbe08ac813c2237aa4f91d085b9f9e37c03ad293e120e47485fa7da33ace/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f332f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/3/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/4/website" rel="nofollow"><img src="https://camo.githubusercontent.com/e1374e79f0bedd469b359351860b61d809863890b5b5f87eb630bdcfaa4b1a9a/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f342f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/4/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/5/website" rel="nofollow"><img src="https://camo.githubusercontent.com/3f0956058174cc0e7a9459731e10a68a77a1e36c44c8d59efc6191f873d0bd20/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f352f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/5/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/6/website" rel="nofollow"><img src="https://camo.githubusercontent.com/5c14a5741f7847cb0011d81c0b51d0139a75b4dd23fb553ab26350b3d0a3655f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f362f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/6/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/7/website" rel="nofollow"><img src="https://camo.githubusercontent.com/5d5625257a35b305c8c5250ccb39e103704344d738664085e510a3b4d73aad39/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f372f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/7/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/8/website" rel="nofollow"><img src="https://camo.githubusercontent.com/3a87a29b8d9a25cfe6c505bb7c4f92f21a18697b40c20d04015e86c6904e5683/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f382f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/8/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/Stacer/organization/9/website" rel="nofollow"><img src="https://camo.githubusercontent.com/96ccb60df71aec741e15252aaeaba2698b7975f600d5c47d99d41370098debf0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5374616365722f6f7267616e697a6174696f6e2f392f6176617461722e737667" data-canonical-src="https://opencollective.com/Stacer/organization/9/avatar.svg" style="max-width: 100%;"></a></p>
+</article></div>
